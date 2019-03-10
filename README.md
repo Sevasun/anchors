@@ -1,6 +1,7 @@
 # anchors
 simple smooth anchor navigation
 
-#TODO
+# TODO
 requestAnimationFrame()
-ease animation
+
+easing animation
