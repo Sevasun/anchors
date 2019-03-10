@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // });
     let anchor = new Anchor({
         selector: '[data-anchor]',
-        duration: 800
+        duration: 800,
+        offset: '.header'
     });
 });
